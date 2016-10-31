@@ -1,4 +1,4 @@
-﻿
+﻿// By: Manuel Muncaster
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
